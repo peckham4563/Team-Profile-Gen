@@ -1,6 +1,9 @@
 const inquirer = require("inquirer");
 const prompt = inquirer.createPromptModule();
 const Manager = require('./lib/Manager')
+const Intern = require('./lib/Intern')
+const Engineer = require('./lib/Engineer')
+const path = require('path')
 const Team = []
 
 const mainMenu = () => {
@@ -24,6 +27,13 @@ const mainMenu = () => {
     }
   })
 };
+
+// function buildTeam(){
+//   inquirer.prompt([
+    
+//   ])
+// }
+
 const askManager = () =>{
     prompt({
       type: 'input',
