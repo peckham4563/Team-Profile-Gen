@@ -15,7 +15,7 @@ This challenge is a great stepping stone for further development with using Node
 
 https://github.com/peckham4563/Team-Profile-Gen
 
-![Screenshot](/dist/Team-profile-gen-screenshot.PNG "Webpage Screenshot")
+![Screenshot](/dist/Team-profile-gen-screenshot.png "Webpage Screenshot")
 
 ## Credits
 
